@@ -6,11 +6,18 @@ body {
 }
 
 ul {
+<<<<<<< HEAD
 	top: 70px;
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 17%;
+=======
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+>>>>>>> origin/master
     background-color: #f1f1f1;
     position: fixed;
     height: 100%;
@@ -25,7 +32,11 @@ li a {
 }
 
 li a.active {
+<<<<<<< HEAD
     background-color: #4CDF50;
+=======
+    background-color: #4CAF50;
+>>>>>>> origin/master
     color: white;
 }
 
@@ -33,10 +44,13 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
+<<<<<<< HEAD
 li a:active:not(.active) {
     background-color: #3A7A45;
     color: white;
 }
+=======
+>>>>>>> origin/master
 ul {
     border: 1px solid #555;
 }
@@ -49,6 +63,7 @@ li {
 li:last-child {
     border-bottom: none;
 }
+<<<<<<< HEAD
 h1{
 	font-family: 'Revalia', cursive;;
 	font-style: bold;
@@ -60,3 +75,5 @@ h1{
 	padding: 10px;
 	
 }
+=======
+>>>>>>> origin/master
