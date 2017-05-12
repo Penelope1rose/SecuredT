@@ -1,8 +1,7 @@
 @CHARSET "ISO-8859-1";
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
-@CHARSET "ISO-8859-1";
-@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
 
 html, body {
 	
@@ -131,4 +130,37 @@ img {
     position: relative;
     left: -10px;
     top: -2.7em;
+}
+#user{position: relative;
+    left: 35em;
+    top: -0.85em;
+    }
+#navwords{
+ position: relative;
+ top: -6.77em;
+ left:60.4em;
+ font-size: 20px; 
+ padding: 0em;
+}
+.R1 {position: relative;
+
+    left: 25em;
+    top: 2em;
+    padding-right: 4em;
+    margin: 4em;
+}
+.R2 {position: relative;
+
+    left: 25em;
+    top: -0.1em;
+    padding-right: 4em;
+    margin: 4em;
+}
+.R3 {position: relative;
+
+    left: 25em;
+    top: -1.5em;
+    padding-right: 4em;
+    margin: 4em;
+    color: white;
 }
